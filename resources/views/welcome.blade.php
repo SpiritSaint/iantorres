@@ -96,17 +96,17 @@
                 <div class="subtitle mb-5">Licenciado en Informática</div>
 
                 <div class="navigation mb-5 mt-4">
-                    <a href="{{ route('proyectos') }}"><i class="fa fa-project-diagram"></i> Proyectos</a>
-                    <a href="{{ route('conocimientos') }}"><i class="fa fa-book"></i> Conocimientos</a>
-                    <a href="{{ route('contacto') }}"><i class="fa fa-at"></i> Contacto</a>
+                    <a class="d-inline-block mb-2" href="{{ route('proyectos') }}"><i class="fa fa-project-diagram"></i> Proyectos</a>
+                    <a class="d-inline-block mb-2" href="{{ route('conocimientos') }}"><i class="fa fa-book"></i> Conocimientos</a>
+                    <a class="d-inline-block mb-2" href="{{ route('contacto') }}"><i class="fa fa-at"></i> Contacto</a>
                 </div>
 
                 <div class="subtitle mb-4 mt-5">Encuéntrame en</div>
 
                 <div class="links mb-5">
-                    <a href="https://github.com/demency"><i class="fab fa-github"></i> GitHub</a>
-                    <a href="https://www.meetup.com/es/Laravel-Chile/members/194777925/"><i class="fab fa-meetup"></i> Meetup</a>
-                    <a href="https://cl.linkedin.com/in/iantorresdev"><i class="fab fa-linkedin"></i> Linkedin</a>
+                    <a class="d-inline-block mb-2" href="https://github.com/demency"><i class="fab fa-github"></i> GitHub</a>
+                    <a class="d-inline-block mb-2" href="https://www.meetup.com/es/Laravel-Chile/members/194777925/"><i class="fab fa-meetup"></i> Meetup</a>
+                    <a class="d-inline-block mb-2" href="https://cl.linkedin.com/in/iantorresdev"><i class="fab fa-linkedin"></i> Linkedin</a>
                 </div>
             </div>
         </div>
