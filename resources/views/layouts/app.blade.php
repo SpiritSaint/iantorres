@@ -71,22 +71,22 @@
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item">
                             <a class="nav-link" href="{{ route('welcome') }}">
-                                <i class="fa fa-house-flood"></i> Inicio
+                                <i class="ml-2 fa fa-house-flood"></i> Inicio
                             </a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="{{ route('proyectos') }}">
-                                <i class="fa fa-project-diagram"></i> Proyectos
+                                <i class="ml-2 fa fa-project-diagram"></i> Proyectos
                             </a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="{{ route('conocimientos') }}">
-                                <i class="fa fa-book"></i> Conocimientos
+                                <i class="ml-2 fa fa-book"></i> Conocimientos
                             </a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="{{ route('contacto') }}">
-                                <i class="fa fa-at"></i> Contacto
+                                <i class="ml-2 fa fa-at"></i> Contacto
                             </a>
                         </li>
                     </ul>
